@@ -1,1 +1,1 @@
-puts "This feature is going to be awesome"
+puts "This feature is awesome"
